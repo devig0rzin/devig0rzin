@@ -14,7 +14,7 @@ I build practical systems that help companies reduce manual work, connect tools 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FlutterFlow-6C47FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payments-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Make-6D28D9?style=for-the-badge" />
 </p>
 
 ## About Me
