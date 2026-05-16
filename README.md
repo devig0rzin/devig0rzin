@@ -14,11 +14,11 @@
 
 ---
 
-This profile was created to save my projects, studies and systems that I am building with AI, n8n, automations and integrations.
+This profile is where I document projects, case studies and systems built with AI, n8n, automations and integrations.
 
-Hi! I'm **Igor Almeida Alves**, a Brazilian technology enthusiast focused on **AI applied to business**, **n8n workflows**, **chatbots**, **APIs** and **digital products**.
+Hi! I'm **Igor Almeida Alves**, an **AI Automation Specialist** focused on business workflows, WhatsApp bots, n8n automations, API integrations and operational systems for real companies.
 
-Here you will find projects that I use to study, improve my skills and build real solutions for companies, local businesses and service operations.
+Here you will find projects that turn manual processes into automated flows for companies, local businesses and service operations.
 
 ---
 
@@ -61,7 +61,7 @@ Currently, I'm studying and building projects with:
 
 ## Goals
 
-I'm focused on growing as an AI automation specialist and building solutions that can be used in real businesses.
+I'm focused on growing as an AI automation specialist and building solutions that companies can actually use in daily operations.
 
 My current goals are:
 
