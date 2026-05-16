@@ -1,8 +1,21 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:7C3AED,100:10B981&text=Igor%20Almeida%20Alves&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20Automation%20Specialist&descAlignY=58&descSize=18" />
+
 # Hi, I'm Igor
 
 AI Automation Specialist focused on business workflows, WhatsApp bots, n8n automations, API integrations and operational systems.
 
 I build practical systems that help companies reduce manual work, connect tools and organize operations with AI and automation.
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlutterFlow-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-00AEEF?style=for-the-badge" />
+</p>
 
 ## About Me
 
@@ -73,6 +86,11 @@ My main focus right now is:
 
 ## Contact
 
-- LinkedIn: [igor-alves2910](https://www.linkedin.com/in/igor-alves2910/)
-- GitHub: [devig0rzin](https://github.com/devig0rzin)
-
+<p>
+  <a href="https://www.linkedin.com/in/igor-alves2910/">
+    <img src="https://img.shields.io/badge/LinkedIn-igor--alves2910-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/devig0rzin">
+    <img src="https://img.shields.io/badge/GitHub-devig0rzin-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
